@@ -1,0 +1,14 @@
+{
+  "name": "express-request-id-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small Express app demonstrating @krish1712/express-request-id",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@krish1712/express-request-id": "^1.0.0",
+    "express": "^5.1.0"
+  }
+}
